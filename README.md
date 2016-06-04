@@ -1,0 +1,2 @@
+# Waric
+Simple projects
